@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "barcode_scanner_with_wdt", "barcode_scanner_with_wdt\barcode_scanner_with_wdt.csproj", "{222DEFB4-13E0-400B-BF7E-217AF435AAFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{222DEFB4-13E0-400B-BF7E-217AF435AAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222DEFB4-13E0-400B-BF7E-217AF435AAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222DEFB4-13E0-400B-BF7E-217AF435AAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222DEFB4-13E0-400B-BF7E-217AF435AAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47F3AE8B-9578-4FBC-B16E-01E8ADC25478}
+	EndGlobalSection
+EndGlobal
